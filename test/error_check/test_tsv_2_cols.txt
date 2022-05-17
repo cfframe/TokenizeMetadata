@@ -1,0 +1,3 @@
+Field	Some Description
+EINRI	An Institution;'&
+FALAR	IS-H & Fred: Case Type
