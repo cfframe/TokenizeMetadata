@@ -15,13 +15,13 @@ as the input for BERT based model. BERT is a commonly used baseline for NLP expe
 
 
 ## General Python project basics
-###Tools and technologies used:
+### Tools and technologies used:
 <ul>
 <li>PyCharm 2021.2.3</li>
 <li>python 3.8.10 - packages as listed in requirements.txt</li>
 </ul>
 
-###Set up
+### Set up
 Python package requirements are defined in requirements.txt. We used a virtual environment for installing these
 to reduce the risk of package dependency issues.
 
@@ -31,7 +31,7 @@ One way of installing requirements: <br />
 <code>py -m pip install --upgrade pip</code><br />
 <code>pip install -r requirements.txt</code>
 
-###Testing
+### Testing
 Using unittest. Can run all test files with a single command in the Terminal window.
 
 <code>
